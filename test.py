@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
-# author: ouyangshaokun
-# date:
+
 import time
 
 import redis
